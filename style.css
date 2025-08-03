@@ -13,7 +13,7 @@ body{
 
     width: 100%;
     height: 40rem;
-    background-color: rgb(253, 252, 252);
+    background-color:  rgb(242, 237, 209);
    
 }
 
@@ -22,7 +22,7 @@ nav{
     height: 100px;
     width: 100%;
     display: flex;
-    background-color:  rgb(253, 252, 252);
+    background-color:   rgb(242, 237, 209);
    border-bottom: 1px solid black;
    position: fixed;
    top: 0;
@@ -274,3 +274,4 @@ nav{
 
     
 }
+
